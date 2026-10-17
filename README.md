@@ -215,4 +215,4 @@ RaidenFTPD is provided as a **full free version** with all features and updates 
 Get started with RaidenFTPD today and enjoy seamless file sharing on your Windows machine. **Download now for free!**
 
 ---
-**Last updated:** 2026-10-17 14:02:33 UTC
+**Last updated:** 2026-10-17 17:43:59 UTC
